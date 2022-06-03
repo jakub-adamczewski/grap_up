@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GrapUp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="height_meters">Wys: %1$.2fm</string>
+    <string name="level">Poziom: %1$s</string>
+    <string name="rock_type">Typ skały: %1$s</string>
+    <string name="belaying">Obicie: %1$s</string>
+    <string name="type">Typ: %1$s</string>
+</resources>
